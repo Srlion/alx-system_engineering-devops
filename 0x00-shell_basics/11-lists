@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$(ls . ../ /boot -a)\n"
+printf "$(ls . ../ /boot -an)\n"
